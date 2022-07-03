@@ -86,9 +86,3 @@ print('Predection using SVM:',labels[predection[0]])
 
 
 
-#Students names & IDs
-#1- Khaled Mohamed Soliman Ghanem 20198027
-#2- Ziad Ayman Mohamed 20198045
-#3- Ahmed Ramadan Mohamed 20198116
-#4- Amr Hosny Eid 20198059 
-
